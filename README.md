@@ -10,7 +10,7 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/architkuiya)](https://linkedin.com/in/architkuiya) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&link=https://twitter.com/ArchitK47)](https://twitter.com/ArchitK47)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&link=https://twitter.com/architkuiya1)](https://twitter.com/ArchitK47)
 
 ## **Skills :**
 
